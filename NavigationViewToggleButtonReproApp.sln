@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigationViewToggleButtonReproApp", "NavigationViewToggleButtonReproApp\NavigationViewToggleButtonReproApp.csproj", "{910E257F-51E8-4B3E-8393-81CFA784E2AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Debug|ARM.ActiveCfg = Debug|ARM
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Debug|ARM.Build.0 = Debug|ARM
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Debug|ARM.Deploy.0 = Debug|ARM
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Debug|ARM64.Build.0 = Debug|ARM64
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Debug|x64.ActiveCfg = Debug|x64
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Debug|x64.Build.0 = Debug|x64
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Debug|x64.Deploy.0 = Debug|x64
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Debug|x86.ActiveCfg = Debug|x86
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Debug|x86.Build.0 = Debug|x86
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Debug|x86.Deploy.0 = Debug|x86
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Release|ARM.ActiveCfg = Release|ARM
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Release|ARM.Build.0 = Release|ARM
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Release|ARM.Deploy.0 = Release|ARM
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Release|ARM64.ActiveCfg = Release|ARM64
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Release|ARM64.Build.0 = Release|ARM64
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Release|ARM64.Deploy.0 = Release|ARM64
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Release|x64.ActiveCfg = Release|x64
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Release|x64.Build.0 = Release|x64
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Release|x64.Deploy.0 = Release|x64
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Release|x86.ActiveCfg = Release|x86
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Release|x86.Build.0 = Release|x86
+		{910E257F-51E8-4B3E-8393-81CFA784E2AB}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3EC1FAC-BAA0-4DA3-A7CB-3D555D7677F9}
+	EndGlobalSection
+EndGlobal
